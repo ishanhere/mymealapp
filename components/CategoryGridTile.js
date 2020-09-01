@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
         alignItems:'flex-end'
     },
     title:{
-        fontSize:19,
+        fontSize:18,
         textAlign:'right',
         fontFamily:'open-sans-bold'
     }
